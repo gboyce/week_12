@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/flowmar/Bamazon.git"
   },
-  "author": "Omar Imam",
-  "license": "ISC",
+  "author": "Greg Boyce",
+  "license": "",
   "bugs": {
     "url": "https://github.com/flowmar/Bamazon/issues"
   },
@@ -19,5 +19,6 @@
   "dependencies": {
     "inquirer": "^3.0.6",
     "mysql": "^2.13.0"
-  }
+  },
+  "keywords": []
 }
